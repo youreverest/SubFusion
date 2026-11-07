@@ -108,7 +108,7 @@ external-controller: 127.0.0.1:9090
 
 # 节点列表
 proxies:
-  - name: "🏴‍☠️ ＤＩＲＥＣＴ"
+  - name: "🏴‍☠️ DΙГЕСΤ"
     type: direct
     udp: true
 ${proxiesYamlText}
@@ -119,7 +119,7 @@ proxy-groups:
     type: select
     proxies:
       - "🇺🇳 ALL"
-      - "🏴‍☠️ ＤＩＲＥＣＴ"
+      - "🏴‍☠️ DΙГЕСΤ"
       - "🇹🇼 ROC"
       - "🇭🇰 HKG"
       - "🇯🇵 JPN"
