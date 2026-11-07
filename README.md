@@ -43,7 +43,7 @@
 4. 部署成功后，点击 **Edit code**，将存储库中的 `index.js` 代码完整复制进去，点击右上角 **Save and deploy**。
 
 >index.js代码链接：
->https://raw.githubusercontent.com/youreverst/SubFusion/refs/heads/main/index.js
+>https://raw.githubusercontent.com/youreverest/SubFusion/refs/heads/main/index.js
 
 ### 第二步：绑定 KV 存储（推荐，用于持久化保存订阅配置）
 1. 在 Cloudflare 后台左侧点击 **Workers** -> **KV** -> **Create a namespace**（命名空间名称可随意，例如 `sub_kv`）。
